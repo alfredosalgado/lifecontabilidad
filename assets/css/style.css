@@ -29,6 +29,11 @@
   color: #7030a0;
 }
 
+.pimg {
+  position: relative;
+  padding-bottom: 25px;
+}
+
 .div-con-imagen {
   position: relative;
   width: 100%;
@@ -849,8 +854,7 @@ body {
     width: 100%;
     height: 100%;
     border-radius: 10px;
-    
-    background-color: #563277;
+    background-color: #000000;
     opacity: 0.5; /* Ajusta la opacidad para el efecto deseado */
   
     pointer-events: none; /* Permite interactuar con los elementos debajo */
