@@ -871,6 +871,11 @@ body {
 
   .hh {
     height: 140px;
+    width: 370px;
+  }
+
+  .hl {
+    height: 60px;
   }
 }
 
@@ -891,5 +896,41 @@ body {
 
   .hc {
     width: 580px;
+  }
+
+  .hh {
+    height: 155px;
+    width: 370px;
+  }
+
+  .hl {
+    height: 90px;
+  }
+}
+
+
+
+@media (min-width: 1300px) {
+  .texth {
+    height: 4.5rem;
+  }
+
+  .text-pc {
+    text-align: center;
+  }
+
+  .carousel-caption {
+    
+    font-size: 4vw; /* Tamaño del texto */
+   
+  }
+
+  .hc {
+    width: 580px;
+  }
+
+  .hh {
+    height: 195px;
+    width: 470px;
   }
 }
